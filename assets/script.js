@@ -24,12 +24,16 @@ function pullingLS() {
   });
 }
 
+
+
+//function colorCode() {
+  //setInterval(() => {
+    //document.getElementById("0")
+  //})
+//}
+
+
 pullingLS();
 currentDay();
 
-function sum(x, y) {
-  return x + y;
-}
-
-sum(4, 5);
 
