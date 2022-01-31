@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## Purpose
-
+Writing in schedules and reminders at set times of the day.
 
 
 ## Built with
@@ -14,8 +14,8 @@
 
 ## links:
 
-### Website: 
+### Website: https://jaredpennington.github.io/challenge5/
 
-### Github Repo: 
+### Github Repo: https://github.com/jaredpennington/challenge5
 
 #### Created by Jared Pennington
